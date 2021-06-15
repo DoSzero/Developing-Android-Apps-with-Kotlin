@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dima kop</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">
+        Experiment with adding an ImageView above the TextView inside the ScrollView.
+        \n\nWhen you run the app, this image, unlike the star, will scroll out of view as the text scrolls up.
+        \n\nHint You will need to wrap the two scrollable views into a LinearLayout inside the ScrollView.
+        \n\nScrollView > LinerLayout > ImageView + TextView
+        \n\nBelow is a skeleton code version for this challenge.
+        \n\nThe important thing to remember is that since ScrollView can only have one child,
+        \n\nyou have to wrap that ImageView and the TextView into a LinearLayout.
+        \n\nThere is no solution code provided for this challenge,
+        but the skeleton code below gives you the expected view hierarchy to use. SKELETON code of vie
+
+        \n\nБлины и блинчики — мучное блюдо, готовится из жидкого теста, выпекается на раскалённой сковороде;
+        обычно имеет круглую форму. Блины, возможно, были первым блюдом, которое стали готовить из муки.
+        Рецепты блинов встречаются практически у всех народов: русские блины, французские блинчики (crêpes),
+        палачинки, английские pancakes, индийская доса, эфиопская инджера и другие.
+
+        \n\nТесто для блинов, бездрожжевое или дрожжевое, готовится на основе муки: пшеничной,
+        гречневой, овсяной, рисовой. Бездрожжевые (пресные) блины — самые простые и быстрые.
+        Пресные блины готовят на молоке, воде, кефире, простокваше, йогурте, ряженке, на слабом алкоголе — медовухе, пиве.
+        Классические дрожжевые блины (особенно гречневые) делаются на опаре.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="done">Done</string>
+</resources>
